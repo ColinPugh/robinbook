@@ -9,7 +9,9 @@ This was built for the [Spring 2014 Hack Upstate](http://hackupstate.com/) hacka
 
 ## Installation
 
-You can get the built plugin on the [Chrome Web Store](https://chrome.google.com/webstore/detail/robinbook/eeibepmoiemjmmodcghabhnkpfiimgjc).
+You can get the built plugin on the [Chrome Web Store](https://chrome.google.com/webstore/detail/robinbook/eeibepmoiemjmmodcghabhnkpfiimgjc), [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/robinbook/), or [Safari](http://robinbook.me/robinbook.safariextz)
+
+You can also visit the [robinbook homepage](www.robinbook.me).
 
 ## Contributing
 
