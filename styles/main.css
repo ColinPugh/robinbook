@@ -1,0 +1,52 @@
+.darkBG {
+	background: #999;
+}
+
+.darkerBG {
+	background: #666;
+}
+
+.darkestBG {
+	background: #333;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+
+  background-color: #A6A8C1;
+  border-color: #31347B;
+ }
+
+.btn
+{
+  background-color: #9F418F;
+  border-color: #9F418F;
+  color: #ffffff;
+}
+
+.jumbotron {
+	position: relative;
+	top: 30px;
+}
+
+body {
+   background-image:url(http://i.imgur.com/IgUSVqI.jpg)!important;
+}
+
+.btn-default {
+  position: relative;
+  top:60px;
+}
+
+p a {
+  color:white;
+
+}
+
+p a:hover{
+  text-decoration: none;
+  color:violet;
+}
+
+button a {
+  text-decoration: none;
+}
